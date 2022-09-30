@@ -189,7 +189,7 @@
         "famousFor":"reverse waterfall",
         "fascinatingFact":"scenic views",
         "howToReach":"https://en.wikipedia.org/wiki/Naneghat"
-    }
+    },
      {
        "id":17 ,
         "place":"Dandoba",
@@ -199,7 +199,7 @@
         "famousFor":"treking",
         "fascinatingFact":"temple at a huge height",
         "howToReach":"https://goo.gl/maps/bbNPsLPZJmtmr3SK9"
-    }
+    },
     {
         "id":17,
         "place":" Savannah ",
@@ -210,5 +210,13 @@
         "fascinatingFact":"complimentary mini-bar and the free-standing tubs",
         "howToReach":" https://goo.gl/maps/m9PibiL82WC9PcYM7"
     },
-
+    {
+        "id":18,
+        "place":" Cascate El nicho ",
+        "country":"Cuba",
+        "photo":"https://www.google.com/maps/uv?pb=!1s0x8f2b20ce1ef24b37%3A0xe576dbd48cbe30b9!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOfTnn1XCLrgfwbJEvW5KyfvYWeZ1bUgJ6DPoA%3Dw274-h205-k-no!5scascate%20el%20nicho%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipOfTnn1XCLrgfwbJEvW5KyfvYWeZ1bUgJ6DPoA&hl=en&sa=X&ved=2ahUKEwi_s7b__bz6AhUsxTgGHTycCJwQoip6BAheEAM#",
+        "Language":["English, Spanish"],
+        "famousFor":"Picturesque falls in a verdant jungle setting with natural swimming pools.",
+        "howToReach":" https://www.google.com/maps/place/Cascate+El+nicho/@22.0281425,-80.1335324,17z/data=!3m1!4b1!4m5!3m4!1s0x8f2b20ce1ef24b37:0xe576dbd48cbe30b9!8m2!3d22.0281425!4d-80.1313437?hl=en"
+    }
 ]
